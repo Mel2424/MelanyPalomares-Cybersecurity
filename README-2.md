@@ -4,7 +4,7 @@
 My name is **Melany Palomares**, and I am a **Computer Science Engineer** specializing in **Cybersecurity**. My goal is to excel in solving security problems within the industry and to continuously expand my technical knowledge. 
 In the future, I aim to become an ***ethical hacker (white hat)*** and use my skills to protect individuals and organizations from ***malicious actions***.
 
-My passion for cybersecurity comes from my desire to protect others. Since I was young, I have always been ***protective*** of my loved ones, advising them to be careful with their *data* privacy. 
+My passion for cybersecurity comes from my desire to protect others. Since I was young, I have always been ***protective*** of my loved ones, advising them to be careful with their ***data*** privacy. 
 Today, I realize that through ***technology***, I can extend that protection on a larger scale, safeguarding the data of countless people worldwide.
 Although I am at the beginning of my career with **limited professional experience** (only three months of work), I am determined to grow and contribute. 
 
